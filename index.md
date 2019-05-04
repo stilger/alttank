@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## alttank.army
 
-You can use the [editor on GitHub](https://github.com/stilger/alttank/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[techqui.com](http://http://techqui.com:8080) Pool
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[dankepoool](https://ple.dankepool.org/#) Pool
+
 
 ### Markdown
 
