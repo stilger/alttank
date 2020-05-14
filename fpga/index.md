@@ -1,4 +1,4 @@
 ## FPGA Miner Instructions
 
-Forest Kitten
+# Forest Kitten
 [Tellor - TRB]() Instructions
