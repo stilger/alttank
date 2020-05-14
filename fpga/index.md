@@ -1,4 +1,4 @@
 ## FPGA Miner Instructions
 
 # Forest Kitten
-[Tellor - TRB](/FK-linux-how-to-tellor.md) Instructions
+[Tellor - TRB](/fpga/FK-linux-how-to-tellor.md) Instructions
